@@ -1,0 +1,40 @@
+# Python general
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.dll
+*.o
+*.a
+
+# Entornos virtuales (opcional, si usas venv)
+venv/
+.env/
+
+# Archivos de configuración y credenciales
+#.env
+#*.env
+
+# Archivos de dependencias generados
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Logs y datos temporales
+logs/
+*.log
+*.db
+
+# Archivos de compilación
+build/
+dist/
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# Archivos de IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
